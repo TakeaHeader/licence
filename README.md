@@ -1,4 +1,4 @@
-# licence
+# licence 仅供测试使用,请勿用于非法用途。商业用途请购买许可
 Syncfusion 破解许可证密钥
 
 import { GridComponent as EjsGrid, ColumnDirective as EColumn, ColumnsDirective as EColumns, Page } from "@syncfusion/ej2-vue-grids";
