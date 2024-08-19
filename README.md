@@ -16,6 +16,3 @@ import { registerLicense } from '@syncfusion/ej2-base';
 // Registering Syncfusion license key
 registerLicense('GRg4AhUWIQA/Gnt2U01iXFJFc1pGVWRLeFBzTic=');
 
-
-
-AG-Grid 破解许可证密钥
